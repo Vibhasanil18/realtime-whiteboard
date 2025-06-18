@@ -7,12 +7,12 @@ body {
 
 /* Light mode */
 .custom-muted-text {
-  color: #6c757d; /* Bootstrap's text-muted */
+  color: #6c757d; 
 }
 
 /* Dark mode override */
 body.dark .custom-muted-text {
-  color: #adb5bd; /* Lighter muted color for dark background */
+  color: #adb5bd; 
 }
 
 body.dark-mode {
