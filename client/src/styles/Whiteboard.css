@@ -1,0 +1,38 @@
+.whiteboard-wrapper {
+  height: 100vh;
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+strong{
+  color: #000;
+  font-weight: bold;
+}
+
+.form-label{
+  color: #000;
+}
+
+.canvas-area {
+  padding: 0;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.chat-panel {
+  max-height: 100vh;
+}
+
+.chat-messages {
+  height: 70vh;
+  overflow-y: auto;
+}
+
+.chat-message {
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  background-color: #e9ecef;
+  padding: 6px 10px;
+  border-radius: 8px;
+}
+
